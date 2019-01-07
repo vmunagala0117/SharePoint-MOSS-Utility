@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SharePointMOSSUtility.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GetSubWebSizes_WSSLists_Lists" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://togethernet2/_vti_bin/Lists.asmx</Value>
+    </Setting>
+    <Setting Name="GetSubWebSizes_WSSSites_Sites" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://togethernet/_vti_bin/Sites.asmx</Value>
+    </Setting>
+    <Setting Name="GetSubWebSizes_WSSSiteData_SiteData" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://togethernet/_vti_bin/SiteData.asmx</Value>
+    </Setting>
+    <Setting Name="GetSubWebSizes_WSSWebs_Webs" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://togethernet/_vti_bin/Webs.asmx</Value>
+    </Setting>
+    <Setting Name="GetSubWebSizes_WSSVersions_Versions" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://togethernet2/_vti_bin/Versions.asmx</Value>
+    </Setting>
+    <Setting Name="SharePointMOSSUtility_WSSUSerGroup_UserGroup" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://togethernet2/_vti_bin/usergroup.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

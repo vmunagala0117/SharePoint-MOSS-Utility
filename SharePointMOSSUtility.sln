@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointMOSSUtility", "SharePointMOSSUtility\SharePointMOSSUtility.csproj", "{F8318C90-5F00-4F24-82D1-D7C28103D27E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8318C90-5F00-4F24-82D1-D7C28103D27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8318C90-5F00-4F24-82D1-D7C28103D27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8318C90-5F00-4F24-82D1-D7C28103D27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8318C90-5F00-4F24-82D1-D7C28103D27E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA658EA7-7CC2-49C7-BB3A-8E1C8999AD2E}
+	EndGlobalSection
+EndGlobal
